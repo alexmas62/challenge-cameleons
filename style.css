@@ -1,0 +1,200 @@
+body {
+    background-color: #2f3848;
+    display: block;
+    margin: 8px;
+    font-size: 22px;
+    font-family: "Open Sans";
+    width: 900px;
+    height: 2500px;
+    margin: 0 auto;
+
+}
+
+
+.titre {
+    text-align: center;
+    color: white;
+    scrollbar-darkshadow-color: 2px white;
+    background-color: #f05768;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-radius: 5px;
+    border-bottom: 2px solid #00CCFF;
+}
+
+h1 {
+    padding-bottom: 10px;
+    margin: 0 auto;
+
+
+}
+
+.recherche li {
+    display: inline;
+}
+
+.recherche {
+    list-style-type: none;
+    color: yellowgreen;
+    word-spacing: 15px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    font-size: 27px;
+    margin-block-start: 0px;
+}
+
+
+
+.recherche a:link {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+.recherche a:visited {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+h2 {
+    color: #0461bd;
+    font-size: 30px;
+}
+
+.Description {
+    font-size: 15px;
+    color: white;
+}
+
+span {
+    color: yellowgreen;
+    text-decoration: underline;
+}
+
+
+#cameleonfirst {
+    position: absolute;
+    width: 900px;
+
+}
+
+#cameleonfirst:hover {
+    transition: .5s ease color: #ffffff;
+    opacity: .2;
+
+}
+
+#titrephoto {
+    position: relative;
+    color: white;
+    background-color: #f05768;
+    width: 40%;
+    height: 38px;
+}
+
+ul {
+    padding: 0%;
+}
+
+#one {
+    position: relative;
+    top: 550px;
+    height: 300px;
+    width: 300px;
+}
+
+#carre {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    top: 244px;
+    left: 305px;
+}
+
+.img {
+    width: 149.5px;
+    height: 147.5px;
+    margin-bottom: 0px;
+    
+}
+
+
+.imge{
+    height: 147.5px;
+    width: 148.5px;
+
+
+}
+
+#resteimages {
+    position: relative;
+    width: 700px;
+    top: 152px; 
+
+    }
+
+#texte{
+  background-color:#004488;
+  position: relative;
+  width: 270px;
+  height: 450px; 
+  top: -800px; 
+  left: 70%;
+}
+
+#resteimages :nth-child(10){
+
+    border: solid 5px red;
+    height: 137.5px;
+    width: 138.5px;
+
+}
+
+#cadre-bleu {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    letter-spacing: -1.5px;
+    color: #00ccff;
+
+}
+
+hr{
+    width: 80%;
+    border-color:#004488;
+    
+}
+
+.cadre-vert{
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    color: yellowgreen;
+
+}
+
+a:link, a:visited{
+    color: yellowgreen;
+}
+
+#inscription{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    letter-spacing: -1.5px;
+    color: #00ccff;
+
+}
+
+
+.fctw{
+    width: 25px;
+    height: 25px;
+}
+
+.facetwitter{
+    position: relative;
+    top: -60px;
+    left: 94%;
+}
+
